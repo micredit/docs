@@ -18,7 +18,8 @@
             "pages": [
               "introduction",
               "quickstart",
-              "development"
+              "development",
+              "install-okx-web3-wallet"
             ]
           },
           {
