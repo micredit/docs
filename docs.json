@@ -16,11 +16,12 @@
           {
             "group": "快速开始",
             "pages": [
+              "okx-web3-wallet",
+              "dex-trading",
               "introduction",
               "quickstart",
-              "development",
-              "okx-web3-wallet",
-              "dex-trading"
+              "development"
+
             ]
           },
           {
