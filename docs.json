@@ -19,7 +19,8 @@
               "introduction",
               "quickstart",
               "development",
-              "web3-wallet"
+              "okx-web3-wallet",
+              "dex-trading"
             ]
           },
           {
