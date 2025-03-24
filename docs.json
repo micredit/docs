@@ -14,14 +14,17 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "快速开始",
+            "group": "钱包App使用指南",
             "pages": [
-              "okx-web3-wallet",
-              "dex-trading",
-              "introduction",
-              "quickstart",
-              "development"
-
+              "wallet-app/tonkeeper-guide",
+              "wallet-app/okx-web3-wallet-guide"
+            ]
+          },
+          {
+            "group": "交易$MCIT",
+            "pages": [
+              "trade-mict/trade-mict-on-okx",
+              "trade-mict/trade-mict-on-tonkeeper"
             ]
           },
           {
